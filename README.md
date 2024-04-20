@@ -1,1 +1,2 @@
-# MC_Assignment3_MT23047
+## What is Weather APP 
+### Assignment 2 of Mobile Computing
